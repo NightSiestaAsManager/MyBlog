@@ -1,0 +1,32 @@
+.container1{ 
+    margin-bottom: 8em;
+}
+.title{
+    text-align: center;
+    font-size: 2em;
+    font-weight: bolder;
+}
+.info{
+    text-align: right;
+    margin-bottom: 2em;
+}
+.date{
+    font-size: 1.2em;
+    font-weight: lighter;
+    display: inline;
+}
+.cate{
+    margin-right: 0.8em;
+    font-size: 1.2em;
+    font-weight: 300;
+    display: inline;
+}
+.preview{
+    font-size:1.6em;
+    color: black;
+    text-decoration-line: none;
+}
+.preview:hover{
+    color:black;
+    text-decoration-line: none;
+}
